@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: org.yale.cs.graphics.gephi.imagepreview/0
+OpenIDE-Module-Localizing-Bundle: org/yale/cs/graphics/gephi/imagepreview/Bundle.properties
+OpenIDE-Module-Specification-Version: 0.2
+
